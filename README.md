@@ -2,8 +2,8 @@
 ## I'm Gianni - a data analytics, cyber security, and finance undergrad at Bryant University
 
 ### Current Projects 🎨
-- 🖥️ **[CoelhOS]**, an operating system I'm writing powered by c++, java, and .net frameworks
-- 📈 **[Blastock]**, a real-time stock viewer using AI to predict better stock placement
+- 🖥️ **[CoelhOS]** an operating system I'm writing powered by c++, java, and .net frameworks
+- 📈 **[Blastock]** a real-time stock viewer using AI to predict better stock placement
 ### Contact 📬
 - **[Twitter](https://twitter.com/gvxnnv)**
 - **[Email](mailto:redact@tutanota.com)**
