@@ -1,5 +1,5 @@
 ![line](https://github.com/DPM97/DPM97/blob/master/line.gif)
-## I'm Gianni - I'm a data analytics, cyber security, and finance undergrad at Bryant University
+## I'm Gianni - A data analytics, cyber security, and finance undergrad at Bryant University
 
 ### Current Projects 🎨
 - 🖥️ **[CoelhOS]**, an operating system I'm writing powered by c++, java, and .net frameworks
